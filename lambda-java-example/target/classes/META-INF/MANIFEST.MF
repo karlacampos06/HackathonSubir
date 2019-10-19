@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: lambda-java-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: creye
+Implementation-Vendor-Id: doc-examples
+Build-Jdk: 1.8.0_222-2-ojdkbuild
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/lambda-java-example
+Created-By: Maven Integration for Eclipse
+
